@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alonso Acosta</h1>
 <h3 align="center">A passionate developer from Bogota, Colombia</h3>
 
+- 🔭 **I'm automation engineer from university la salle**
+
 - 🌱 I’m currently learning **Android**
 
 - 💬 Ask me about **Html, Css, Js, Bootstrap or react**
