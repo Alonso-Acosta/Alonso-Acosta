@@ -3,7 +3,7 @@
 
 - 🔭 **I'm automation engineer from university la salle**
 
-- 🌱 I’m currently learning **Android**
+- 🌱 I’m currently learning **React-Native**
 
 - 💬 Ask me about **Html, Css, Js, Bootstrap or react**
 
